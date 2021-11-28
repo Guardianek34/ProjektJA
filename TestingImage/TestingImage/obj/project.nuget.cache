@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5YIl3xUMh2+ostnKznR5zjYOCESzwq4FqyNbhZXGJZW9w+VDEzbnTXoyjI18Mx+YJ5S/HbV6DtBC/38qoxq4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\TestingImage\\TestingImage\\TestingImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
