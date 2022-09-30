@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJidM+Yn2qldS+r8XDawl8C0RcINw9vvrFM8Mao6Um7wEyyjN2JP5j4a/yBlmQeRJfPb/Qu+9YgGDb+pKtbFAw==",
+  "success": true,
+  "projectFilePath": "D:\\ProjektJA\\ProjektJA-main\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ja\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ja\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

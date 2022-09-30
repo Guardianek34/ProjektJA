@@ -1,0 +1,12 @@
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\bin\Release\net5.0\CSharpDLL.deps.json
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\bin\Release\net5.0\CSharpDLL.dll
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\bin\Release\net5.0\ref\CSharpDLL.dll
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\bin\Release\net5.0\CSharpDLL.pdb
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\obj\Release\net5.0\CSharpDLL.csproj.AssemblyReference.cache
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\obj\Release\net5.0\CSharpDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\obj\Release\net5.0\CSharpDLL.AssemblyInfoInputs.cache
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\obj\Release\net5.0\CSharpDLL.AssemblyInfo.cs
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\obj\Release\net5.0\CSharpDLL.csproj.CoreCompileInputs.cache
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\obj\Release\net5.0\CSharpDLL.dll
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\obj\Release\net5.0\ref\CSharpDLL.dll
+D:\ProjektJA\ProjektJA-main\WpfApp1\CSharpDLL\obj\Release\net5.0\CSharpDLL.pdb

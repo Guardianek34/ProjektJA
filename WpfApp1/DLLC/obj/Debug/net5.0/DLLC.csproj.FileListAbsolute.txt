@@ -1,0 +1,12 @@
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\bin\Debug\net5.0\DLLC.deps.json
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\bin\Debug\net5.0\DLLC.dll
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\bin\Debug\net5.0\ref\DLLC.dll
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\bin\Debug\net5.0\DLLC.pdb
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\obj\Debug\net5.0\DLLC.csproj.AssemblyReference.cache
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\obj\Debug\net5.0\DLLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\obj\Debug\net5.0\DLLC.AssemblyInfoInputs.cache
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\obj\Debug\net5.0\DLLC.AssemblyInfo.cs
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\obj\Debug\net5.0\DLLC.csproj.CoreCompileInputs.cache
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\obj\Debug\net5.0\DLLC.dll
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\obj\Debug\net5.0\ref\DLLC.dll
+D:\ProjektJA\ProjektJA-main\WpfApp1\DLLC\obj\Debug\net5.0\DLLC.pdb

@@ -1,0 +1,4 @@
+﻿  Assembling JAAsm.asm...
+     Trwa tworzenie biblioteki D:\ProjektJA\ProjektJA-main\WpfApp1\x64\Release\JAAsm.lib i obiektu D:\ProjektJA\ProjektJA-main\WpfApp1\x64\Release\JAAsm.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  JAAsm.vcxproj -> D:\ProjektJA\ProjektJA-main\WpfApp1\x64\Release\JAAsm.dll
